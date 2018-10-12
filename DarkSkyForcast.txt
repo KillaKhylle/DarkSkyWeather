@@ -1,0 +1,6 @@
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=11" />
+
+<iframe id="forecast_embed" frameborder="0" height="245" width="100%"src="//forecast.io/embed/#lat=21.350496&lon=-157.940215&name=JBPHH &color=#00aaff&font=Georgia&units=us"></iframe>
+
+<meta http-equiv="X-UA-Compatible" content="IE=11" />
